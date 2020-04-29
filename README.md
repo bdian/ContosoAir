@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://paulbag.visualstudio.com/github-azurepipelines/_apis/build/status/bdian.ContosoAir?branchName=master)](https://paulbag.visualstudio.com/github-azurepipelines/_build/latest?definitionId=9&branchName=master)
 
 # Microsoft.Github CI Demo
 
